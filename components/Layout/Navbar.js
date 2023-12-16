@@ -56,6 +56,11 @@ export default function Navbar() {
 											<a className="text-black">Career</a>
 										</Link>
 									</li>
+									<li>
+										<Link href="/support">
+											<a className="text-black">Support</a>
+										</Link>
+									</li>
 								</ul>
 							</div>
 						</div>
